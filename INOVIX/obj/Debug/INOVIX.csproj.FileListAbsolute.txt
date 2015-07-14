@@ -1,0 +1,4 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\INOVIX\bin\INOVIX.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\INOVIX\bin\INOVIX.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\INOVIX\obj\Debug\INOVIX.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\INOVIX\obj\Debug\INOVIX.pdb

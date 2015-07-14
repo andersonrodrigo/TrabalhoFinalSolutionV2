@@ -1,0 +1,4 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\bin\Debug\ModeloCanonico.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\bin\Debug\ModeloCanonico.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\obj\Debug\ModeloCanonico.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\obj\Debug\ModeloCanonico.pdb

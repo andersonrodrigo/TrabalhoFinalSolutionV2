@@ -1,0 +1,4 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\YUM\bin\YUM.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\YUM\bin\YUM.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\YUM\obj\Debug\YUM.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\YUM\obj\Debug\YUM.pdb

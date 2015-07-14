@@ -1,0 +1,7 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\obj\Debug\KGB.csprojResolveAssemblyReference.cache
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\bin\KGB.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\bin\KGB.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\bin\ModeloCanonico.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\bin\ModeloCanonico.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\obj\Debug\KGB.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\KGB\obj\Debug\KGB.pdb

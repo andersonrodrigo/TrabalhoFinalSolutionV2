@@ -1,0 +1,7 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\obj\Debug\APT.csprojResolveAssemblyReference.cache
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\bin\APT.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\bin\APT.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\bin\ModeloCanonico.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\bin\ModeloCanonico.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\obj\Debug\APT.dll
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\APT\obj\Debug\APT.pdb

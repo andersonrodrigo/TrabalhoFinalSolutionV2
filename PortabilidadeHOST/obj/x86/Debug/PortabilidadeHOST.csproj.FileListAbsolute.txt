@@ -1,0 +1,8 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\bin\Debug\PortabilidadeHOST.exe
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\bin\Debug\PortabilidadeHOST.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
+C:\Users\aluno.DEC\Downloads\TrabalhoFinalSolution\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
+C:\Users\aluno.DEC\Downloads\TrabalhoFinalSolution\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
+C:\Users\chart\Documents\puc\trabalhoFinalBiark\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
+C:\Users\chart\Documents\puc\trabalhoFinalBiark\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
