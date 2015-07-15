@@ -7,7 +7,7 @@ namespace Anatel
 {
     class Anatel:IAnatel
     {
-        public RetornoPotabilidade SolicitarPortabilidadeNumerica(ModeloCanonico.Custumer custumer)
+        public RetornoPortabilidade SolicitarPortabilidadeNumerica(ModeloCanonico.Custumer custumer)
         {
             throw new NotImplementedException();
         }

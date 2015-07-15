@@ -5,10 +5,10 @@ using System.Text;
 
 namespace ModeloCanonico
 {
-    class RetornoPotabilidade
+    public class RetornoPortabilidade
     {
 
-     string motivo;
+        string motivo;
 
         public string Motivo
         {

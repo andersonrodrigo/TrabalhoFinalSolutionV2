@@ -20,6 +20,9 @@ namespace KGB
             throw new NotImplementedException();
         }
 
-
+        public Acount ObterDadosConta(Custumer customer)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

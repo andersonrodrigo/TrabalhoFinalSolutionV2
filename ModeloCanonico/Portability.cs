@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ModeloCanonico
 {
-    class Portability
+    public class Portability
     {
         string bilhete;
 

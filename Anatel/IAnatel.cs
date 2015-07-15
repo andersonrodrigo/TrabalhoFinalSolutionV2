@@ -7,6 +7,6 @@ namespace Anatel
 {
     public interface IAnatel
     {
-        RetornoPotabilidade SolicitarPortabilidadeNumerica(Custumer custumer); 
+        RetornoPortabilidade SolicitarPortabilidadeNumerica(Custumer custumer); 
     }
 }

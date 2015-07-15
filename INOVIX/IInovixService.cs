@@ -6,15 +6,13 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 using ModeloCanonico;
+
 namespace INOVIX
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
     public interface IInovixService
     {
-
-        [OperationContract]
-        string GetData(int value);
 
         [OperationContract]
         RetornoChamada SolicitaPortabilidade(Custumer custumer);
@@ -25,7 +23,7 @@ namespace INOVIX
 
 
         [OperationContract]
-        RetornoChamada ObterRespostaAnatel(ModeloCanonico.RetornoPortabilidade custumer);
+        RetornoChamada ObterRespostaAnatel(RetornoPortabilidade custumer);
 
         // TODO: Add your service operations here
     }

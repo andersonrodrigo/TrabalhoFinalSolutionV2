@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ModeloCanonico;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -44,16 +45,17 @@ namespace INOVIX
         /**
          * Recebe a resposta do APT
          * */
-        public RetornoChamada ReceberRespostaAnatel(ModeloCanonico.Custumer custumer)
+        public RetornoChamada ReceberRespostaAnatel(RetornoPortabilidade custumer)
         {
+            return null;
         }
 
 
         /**Recebe a resposta de erro, chamado se houver erro na chamada do APT
          * ***/
-        public RetornoChamada ObterRespostaAnatel(ModeloCanonico.Custumer custumer)
+        public RetornoChamada ObterRespostaAnatel(RetornoPortabilidade custumer)
         {
-
+            return null;
         }
 
     }
