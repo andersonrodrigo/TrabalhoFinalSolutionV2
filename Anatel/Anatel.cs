@@ -5,11 +5,25 @@ using System.Text;
 using ModeloCanonico;
 namespace Anatel
 {
-    class Anatel:IAnatel
+    public class Anatel: MarshalByRefObject, IAnatel
     {
         public RetornoPortabilidade SolicitarPortabilidadeNumerica(ModeloCanonico.Custumer custumer)
         {
-            throw new NotImplementedException();
+
+            RetornoPortabilidade retorno = new RetornoPortabilidade();
+
+            retorno.CodigoErro = "0";
+            retorno.DataErro = DateTime.Now;
+            retorno.Motivo = "Portabilidade efetuada com sucesso.";
+
+            if (custumer.Nome.Equals("Lucas"))
+            {
+                retorno.CodigoErro = "1";
+                retorno.DataErro = DateTime.Now;
+                retorno.Motivo = "Cliente inválido.";
+            }
+
+            return retorno;
         }
     }
 }
