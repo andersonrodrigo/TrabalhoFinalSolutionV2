@@ -37,6 +37,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -52,6 +53,15 @@
       <Project>{601d2f52-95e7-471d-80ff-551786ab73f9}</Project>
       <Name>Anatel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\APT\APT.csproj">
+      <Project>{c6ccd14d-f87d-49fc-b365-a5e971ec5bbd}</Project>
+      <Name>APT</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
