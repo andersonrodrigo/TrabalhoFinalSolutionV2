@@ -53,9 +53,13 @@
       <Project>{601d2f52-95e7-471d-80ff-551786ab73f9}</Project>
       <Name>Anatel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\APT\APT.csproj">
-      <Project>{c6ccd14d-f87d-49fc-b365-a5e971ec5bbd}</Project>
-      <Name>APT</Name>
+    <ProjectReference Include="..\APT_2\APT_2.csproj">
+      <Project>{ae6d82c0-0bf2-486b-b05f-5f9a95cab4ab}</Project>
+      <Name>APT_2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModeloCanonico\ModeloCanonico.csproj">
+      <Project>{5dcccad2-47d5-4a78-b5f4-2860bc4eeab3}</Project>
+      <Name>ModeloCanonico</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
