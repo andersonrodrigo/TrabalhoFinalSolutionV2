@@ -1,27 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace ModeloCanonico
 {
     /**
-    * Retorno portabilidade utilizado pelo webservice do projeto Anatel.
+    * Utilizada pelo projeto APT como contrato de falha, repassando assim para o projeto INOVIX os erros que aconteceram durante sua execução.
     *
     */
-    public class RetornoPortabilidade
+    [DataContract(Namespace = "http://br.pucminas")]
+    public class PortabilidadeFault
     {
-
-        string bilhete;
-
-        public string Bilhete
-        {
-            get { return bilhete; }
-            set { bilhete = value; }
-        }
-
         string motivo;
 
+        [DataMember]
         public string Motivo
         {
             get { return motivo; }
@@ -30,6 +24,7 @@ namespace ModeloCanonico
 
         DateTime dataErro;
 
+        [DataMember]
         public DateTime DataErro
         {
             get { return dataErro; }
@@ -39,6 +34,7 @@ namespace ModeloCanonico
 
         string codigoErro;
 
+        [DataMember]
         public string CodigoErro
         {
             get { return codigoErro; }

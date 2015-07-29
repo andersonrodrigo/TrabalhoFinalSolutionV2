@@ -6,6 +6,7 @@ using ModeloCanonico;
 using System.Runtime.Remoting.Channels.Tcp;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting;
+using System.ServiceModel;
 
 namespace APT_2
 {
@@ -14,8 +15,6 @@ namespace APT_2
 
         public Portability SolicitarBilhetePortabilidade(Custumer custumer, Acount acount)
         {
-
-            //[Verificando obrigatoriedade dos parametors]
 
             //[chamando o webservice do módulo Anatel]
             Anatel.IAnatel client;
@@ -26,9 +25,19 @@ namespace APT_2
             //[obtendo resposta da Anatel para a portabilidade]
             RetornoPortabilidade retorno = client.SolicitarPortabilidadeNumerica(custumer);
 
-            //[TODO gerar numero do bilhete]
+            //[verificar as validacoes retornadas pela anatel]
+            if (!retorno.CodigoErro.Equals("0"))
+            {
+                PortabilidadeFault falha = new PortabilidadeFault();
+                falha.CodigoErro = retorno.CodigoErro;
+                falha.DataErro = retorno.DataErro;
+                falha.Motivo = retorno.Motivo;
+                throw new FaultException<PortabilidadeFault>(falha);
+            }
+
+            //[obtendo o numero do bilhete da Anatel]
             Portability portabilidade = new Portability();
-            portabilidade.Bilhete = "123456789";
+            portabilidade.Bilhete = retorno.Bilhete;
 
             return portabilidade;
         }
