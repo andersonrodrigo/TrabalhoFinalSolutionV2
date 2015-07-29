@@ -15,6 +15,8 @@ namespace APT_2
         public Portability SolicitarBilhetePortabilidade(Custumer custumer, Acount acount)
         {
 
+            //[Verificando obrigatoriedade dos parametors]
+
             //[chamando o webservice do módulo Anatel]
             Anatel.IAnatel client;
             TcpChannel channel = new TcpChannel();
