@@ -12,6 +12,7 @@ namespace Anatel
 
             RetornoPortabilidade retorno = new RetornoPortabilidade();
 
+            retorno.Bilhete = "1234567890";
             retorno.CodigoErro = "0";
             retorno.DataErro = DateTime.Now;
             retorno.Motivo = "Portabilidade efetuada com sucesso.";

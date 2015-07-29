@@ -8,6 +8,14 @@ namespace ModeloCanonico
     public class RetornoPortabilidade
     {
 
+        string bilhete;
+
+        public string Bilhete
+        {
+            get { return bilhete; }
+            set { bilhete = value; }
+        }
+
         string motivo;
 
         public string Motivo
