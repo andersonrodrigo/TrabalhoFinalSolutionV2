@@ -9,7 +9,7 @@ namespace ModeloCanonico
     public class Custumer
     {
         string nome;
-
+        string teste;
         public string Nome
         {
             get { return nome; }
