@@ -6,3 +6,6 @@ C:\Users\aluno.DEC\Downloads\TrabalhoFinalSolution\TrabalhoFinalSolution\Portabi
 C:\Users\aluno.DEC\Downloads\TrabalhoFinalSolution\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
 C:\Users\chart\Documents\puc\trabalhoFinalBiark\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
 C:\Users\chart\Documents\puc\trabalhoFinalBiark\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\PortabilidadeHOST\bin\Debug\PortabilidadeHOST.exe.config
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
