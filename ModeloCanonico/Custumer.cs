@@ -10,6 +10,7 @@ namespace ModeloCanonico
     {
         string nome;
         string teste;
+        string teste2;
         public string Nome
         {
             get { return nome; }
