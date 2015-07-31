@@ -2,3 +2,7 @@ C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\bi
 C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\bin\Debug\ModeloCanonico.pdb
 C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\obj\Debug\ModeloCanonico.dll
 C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\ModeloCanonico\obj\Debug\ModeloCanonico.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\ModeloCanonico\bin\Debug\ModeloCanonico.dll
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\ModeloCanonico\bin\Debug\ModeloCanonico.pdb
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\ModeloCanonico\obj\Debug\ModeloCanonico.dll
+C:\Users\Windows\Documents\Visual Studio 2010\Projects\trabalho\ModeloCanonico\obj\Debug\ModeloCanonico.pdb
