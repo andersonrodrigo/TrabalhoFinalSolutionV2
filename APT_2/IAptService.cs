@@ -14,6 +14,7 @@ namespace APT_2
     public interface IAptService
     {
         [OperationContract]
+        [FaultContract(typeof(PortabilidadeFault))]
         Portability SolicitarBilhetePortabilidade(Custumer custumer, Acount acount);
     }
 
