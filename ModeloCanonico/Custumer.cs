@@ -6,15 +6,13 @@ using System.Text;
 namespace ModeloCanonico
 {
     
-    public class Custumer
+    public interface Custumer
     {
-        string nome;
-        string teste;
-        string teste2;
-        public string Nome
-        {
-            get { return nome; }
-            set { nome = value; }
-        }
+        String getNome();
+        void setNome(String nome);
+        float getConta();
+        void setConta(float conta);
+        float getSaldo();
+        void setSaldo(float saldo);
     }
 }
